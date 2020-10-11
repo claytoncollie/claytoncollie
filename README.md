@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working for @content-pilot building law firm websites 
 - 🌱 I’m currently learning Codeception, PHPStan, and all things testing
+- ⚡ Fun fact **I am a WordPress Core Contributor**
 
 ### Languages and Tools:
 
