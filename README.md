@@ -1,8 +1,8 @@
 ### Hi there, I'm Clayton 👋
 
 
-- 🔭 I’m currently working for @content-pilot building law firm websites 
-- 🌱 I’m currently learning Codeception, PHPStan, and all things testing
+- 🔭 I’m currently working for @10up 
+- 🌱 I’m currently learning React, Gutenberg, and all the javascripts
 - ⚡ Fun fact **I am a WordPress Core Contributor**
 
 ### Languages and Tools:
